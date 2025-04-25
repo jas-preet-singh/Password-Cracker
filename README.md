@@ -18,7 +18,7 @@ bash
 Insert Code
 Edit
 Copy code
-git clone https://github.com/SJaspreet01/Password_Cracker
+git clone (https://github.com/jas-preet-singh/Password-Cracker)
 Navigate to the project directory:
 bash
 Insert Code
